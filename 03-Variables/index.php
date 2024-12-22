@@ -1,5 +1,6 @@
 <?php
- $nombre "Adamaris";
+    $nombre = "Adamaris";
+    $Nombre = "Otro nombre";
 ?>
 
 <!DOCTYPE html>
@@ -10,6 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> <?php echo "Hola mundo mi nombre es " . $nombre; ?> </h1>
+    <h1> <?php echo "Hola la mundo mi nombre es " . $Nombre; ?> </h1>
 </body>
 </html>
